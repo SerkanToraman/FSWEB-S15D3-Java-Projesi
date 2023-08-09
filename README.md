@@ -11,7 +11,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Company needs your help
 * Şirketimize eleman alımı yapılırken muhasebemizde bazı kullanıcıların aynı id ile kayıt edildiklerini gorduk. Bu durumu düzeltmek için senin yardımın gerekli.
-* ```Employee``` isimli bir sınıf tanımlamalısın. İçerisinde id, firstname ve lastname değerleri olmalı.
+* ```com.WorkintechS19G3.model.Employee``` isimli bir sınıf tanımlamalısın. İçerisinde id, firstname ve lastname değerleri olmalı.
 * Elimizde bir adet  ```LinkedList``` var bütün employee ler bu listenin içerisindeler.
 * Senden isteğimiz listede tekrar eden employeeleri başka bir listeye eklemen.
 * Ayrıca tekrar etmeyen kullanıcıları da bir Map'e eklemeni istemekteyiz.
